@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "secure-random": "^1.1.2",
+    "sha3": "^2.1.4",
+    "stdio": "^2.1.1",
+    "table": "^6.8.1"
+  }
+}
